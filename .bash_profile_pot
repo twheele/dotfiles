@@ -10,6 +10,7 @@ alias code='cd ~/code'
 alias rig1='ssh 10.200.112.50 -l root'
 alias rig2='ssh 10.200.112.51 -l root'
 alias ccoin.me='ssh ccoin.me -l root'
+alias adva='ssh root@192.168.0.2'
 
 # Setting GIT prompt
 c_cyan=`tput setaf 6`
